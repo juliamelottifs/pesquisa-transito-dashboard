@@ -32,4 +32,4 @@ Analisar hábitos de motoristas e passageiros relacionados ao uso de celular no 
 
 📷 Dashboard
 
-![Dashboard Power BI](dashboard-transito.png)
+![Dashboard Power BI](dashboard-transito.jpeg)
